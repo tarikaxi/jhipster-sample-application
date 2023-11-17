@@ -1,0 +1,2 @@
+org.springframework.test.context.ContextCustomizerFactory = ma.iam.wissal.\
+    config.SqlTestContainersSpringContextCustomizerFactory
